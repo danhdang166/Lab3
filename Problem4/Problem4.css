@@ -1,0 +1,46 @@
+h1 {
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 28px;
+	color: rgb(156, 157, 158);
+}
+.background {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(89, 89, 89);
+}
+.title {
+	margin-left: 10px;
+	color: white;
+	font-style: italic;
+	font-size: 20px;
+}
+.titlee {
+	margin-bottom: 48px;
+}
+.yellowed {
+	font-size: 20px;
+	color: rgb(208, 206, 144);
+}
+#reded {
+	font-weight: bold;
+	font-size: 20px;
+	color: rgb(248, 22, 36);
+}
+.grayed {
+	font-size: 20px;
+	color: rgb(144, 149, 140);
+}
+.oranged {
+	font-weight: bold;
+	font-size: 20px;
+	color: rgb(196, 101, 53);
+}
+.green-button {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	border-radius: 50%;
+	background-color: green;
+}

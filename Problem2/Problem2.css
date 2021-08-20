@@ -1,0 +1,35 @@
+.navv {
+	background-color: rgb(41, 74, 112);
+	border-bottom: 5px solid #F4A024;
+}
+.ull {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	text-align: center;
+}
+.ull li {
+	margin-left: 0;
+	list-style: none;
+	display: inline-block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.ull a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+.ull a:hover {
+  	background-color: orange;
+}
+table {
+	margin-top: 100px;
+	margin-left: auto;
+	margin-right: auto;
+ 	text-align: center;
+}
+table th {
+	text-align: center;
+}
